@@ -4,6 +4,7 @@
 
 **Intro to command line interface library commander.js via a set of self-guided workshops.**
 
+[![NPM](https://nodei.co/npm/comder.png?downloads=true&&downloadRank=true&stars=true)](https://nodei.co/npm/comder/) [![NPM](https://nodei.co/npm-dl/comder.png?months=3&height=3)](https://nodei.co/npm/comder/)
 
 ![Comder menu](https://raw.github.com/gangstead/comder/master/comder.png)
 
