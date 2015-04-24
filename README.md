@@ -5,7 +5,7 @@
 **Intro to command line interface library commander.js via a set of self-guided workshops.**
 
 
-![Learn You The Node.js For Much Win!](https://raw.github.com/gangstead/comder/master/comder.png)
+![Comder menu](https://raw.github.com/gangstead/comder/master/comder.png)
 
   1. Install [Node.js](http://nodejs.org/)
   2. Run `npm install comder -g`
