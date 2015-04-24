@@ -1,0 +1,24 @@
+{
+  "title": "Build command line apps with commander",
+  "subtitle": "\u001b[23mSelect an exercise and hit \u001b[3mEnter\u001b[23m to begin",
+  "menu": {
+    "credits": "CREDITS"
+  },
+  "common": {
+    "exercise": {
+      "pass": {
+        "sync": "Used synchronous method: {{{method}}}",
+        "async": "Used asynchronous method: {{{method}}}"
+      },
+      "fail": {
+        "sync": "Used synchronous method: {{{method}}}",
+        "async": "Used asynchronous method: {{{method}}}",
+        "unused": "Used asynchronous method from the `fs` module.",
+        "unexpected_error": "Unexpected error from HTTP server: {{{message}}}",
+        "connection": "Error connecting to {{{address}}}: {{{message}}}"
+      }
+    }
+  },
+  "exercises": {
+  }
+}
