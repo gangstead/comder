@@ -1,6 +1,6 @@
 {
   "name": "comder",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Intro to command line interface library commander.js via a set of self-guided workshops.",
   "author": "Steven Gangstead <steven@gangstead.com> (https://github.com/gangstead)",
   "contributors": [
