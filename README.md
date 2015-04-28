@@ -1,5 +1,7 @@
 # Come and commandeer the commander library with Comder
 
+[![Join the chat at https://gitter.im/gangstead/comder](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gangstead/comder?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### You've found a work in progress, how embarrassing for me.
 ### I'm looking for help adding exercises, all pull requests considered.
 **Intro to command line interface library commander.js via a set of self-guided workshops.**
