@@ -1,7 +1,7 @@
 # Come and commandeer the commander library with Comder
 
-## You've found a work in progress, how embarrassing for me.
-
+### You've found a work in progress, how embarrassing for me.
+### I'm looking for help adding exercises, all pull requests considered.
 **Intro to command line interface library commander.js via a set of self-guided workshops.**
 
 [![NPM](https://nodei.co/npm/comder.png?downloads=true&&downloadRank=true&stars=true)](https://nodei.co/npm/comder/) [![NPM](https://nodei.co/npm-dl/comder.png?months=3&height=3)](https://nodei.co/npm/comder/)
