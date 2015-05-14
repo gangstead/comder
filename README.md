@@ -1,10 +1,19 @@
 # Come and commandeer the commander library with Comder
+**Intro to command line interface library [commander.js](https://github.com/tj/commander.js) via a set of self-guided workshops.**
 
 [![Join the chat at https://gitter.im/gangstead/comder](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gangstead/comder?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-### You've found a work in progress, how embarrassing for me.
-### I'm looking for help adding exercises, all pull requests considered.
-**Intro to command line interface library commander.js via a set of self-guided workshops.**
+### You've found a work in progress.
+I'm looking for help adding exercises, all pull requests considered.  Some ideas for future exercises:
+
+Pithy name | Description
+---------- | -----------
+OPTION_ME | Create options with short flags (`-o`) and long names ('--option'), should be easy
+FEEL_THE_COERCION | Pull a variable from an option
+EXPRESSION_REGULAR | Use regex to make sure option variables fit an expected form
+VARIADIC_ARGUMENTS | (Name not pithy enough) The last argument can be variadic
+COMDER_COMMANDS | Git-style sub-commands
+COMMAND_ACTION | Register a callback function for a command
 
 [![NPM](https://nodei.co/npm/comder.png?downloads=true&&downloadRank=true&stars=true)](https://nodei.co/npm/comder/) [![NPM](https://nodei.co/npm-dl/comder.png?months=3&height=3)](https://nodei.co/npm/comder/)
 
