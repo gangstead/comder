@@ -4,7 +4,8 @@
   "description": "Intro to command line interface library commander.js via a set of self-guided workshops.",
   "author": "Steven Gangstead <steven@gangstead.com> (https://github.com/gangstead)",
   "contributors": [
-    "Steven Gangstead <steven@gangstead.com> (https://github.com/gangstead)"
+    "Steven Gangstead <steven@gangstead.com> (https://github.com/gangstead)",
+    "Burin Asavesna (https://github.com/burin)"
   ],
   "repository": {
     "type": "git",
