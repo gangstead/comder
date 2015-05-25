@@ -35,6 +35,7 @@ COMMAND_ACTION | Register a callback function for a command
 
 <table><tbody>
 <tr><th align="left">Steven Gangstead</th><td><a href="https://github.com/gangstead">GitHub/gangstead</a></td><td><a href="http://twitter.com/gangstead">Twitter/@gangstead</a></td></tr>
+<tr><th align="left">Thom Richardson</th><td><a href="https://github.com/Enmadaio">GitHub/Enmadaio</a></td><td>&nbsp;</td></tr>
 </tbody></table>
 
 ## License
