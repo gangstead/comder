@@ -12,7 +12,7 @@ program
 ```
 
 If the option is passed in, a property matching the name you provided
-will be set on your program variable.
+will be set on the `program` variable.
 
 In the command line:
 
@@ -20,14 +20,10 @@ In the command line:
 node program.js -o
 ```
 
-Then in your program:
+Then `program.option` will be set to `true`.
 
-```js
-console.log(program.option); // true
-```
-
-In your program, add a `commander` option and output `Commander`
-to the console when it is passed in.
+In your program, add a `-v, --verbose` flag and output `Verbosely
+verifying values vivified` if it is set or `Done` if not.
 
 When you are done, run:
 

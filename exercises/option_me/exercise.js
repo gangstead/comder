@@ -13,9 +13,7 @@ exercise = execute(exercise)
 exercise = comparestdout(exercise)
 
 exercise.addSetup(function(mode, callback) {
-  // mode == 'run' || 'verify'
-
-  this.submissionArgs = this.solutionArgs = ['-c'];
+  this.submissionArgs = this.solutionArgs = ['-v'];
 
   process.nextTick(callback)
 });
