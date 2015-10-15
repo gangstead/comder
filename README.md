@@ -5,7 +5,7 @@
 
 [![Join the chat at https://gitter.im/gangstead/comder](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gangstead/comder?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-### You've found a work in progress.
+#### You've found a work in progress.
 I'm looking for help adding exercises, all pull requests considered.  Some ideas for future exercises:
 
 Pithy name | Description
